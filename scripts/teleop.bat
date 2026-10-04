@@ -1,0 +1,1 @@
+lerobot-teleoperate --robot.type=so101_follower --robot.port=COM6 --robot.id=follower --teleop.type=so101_leader --teleop.port=COM7 --teleop.id=leader

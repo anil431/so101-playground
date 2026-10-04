@@ -1,0 +1,1 @@
+lerobot-calibrate --robot.type=so101_follower --robot.port=COM6 --robot.id=follower

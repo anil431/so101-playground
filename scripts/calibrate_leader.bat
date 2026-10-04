@@ -1,0 +1,1 @@
+lerobot-calibrate --teleop.type=so101_leader --teleop.port=COM7 --teleop.id=leader
