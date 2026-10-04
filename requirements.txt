@@ -1,0 +1,1 @@
+lerobot[core_scripts,feetech] 
