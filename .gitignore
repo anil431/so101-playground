@@ -1,0 +1,7 @@
+surface.json
+preview.png
+last_run.png
+__pycache__/
+draw_log.json
+live_run.jsonl
+live_demo.jsonl
